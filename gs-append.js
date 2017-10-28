@@ -1,5 +1,5 @@
 let google = require('googleapis');
-let authentication = require("./authentication");
+let authentication = require('./authentication');
 
 
 function appendData(auth) {
